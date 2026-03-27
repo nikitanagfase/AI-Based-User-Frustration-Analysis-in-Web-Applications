@@ -50,10 +50,11 @@ The system collects user interaction data including clicks, mouse movements, and
 
 ## 6. Implementation
 
-**Programming Languages:** Python :for data processing and machine learning
-JavaScript : for capturing user interaction data (clicks, mouse movement)
+**Programming Languages:** Python ,JavaScript
+
 **Frameworks/Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow\Keras,
 Matplotlib / Seaborn
+
 **Tools:** Streamlit, Jupyter Notebook, VS Code
 
 ------------------------------------------------------------------------
@@ -68,18 +69,18 @@ compared to traditional analytics tools.
 
 ## 8. Limitations
 
--   Requires large data\
--   Privacy concerns\
+-   Requires large data
+-   Privacy concerns
 -   Possible misclassification
 
 ------------------------------------------------------------------------
 
 ## 9. Future Scope
--   Integration with real-time monitoring systems
--   Use of deep learning models like Transformers for sequence analysis
--	Emotion detection using webcam or voice (advanced)
--	Personalized UI adaptation based on frustration level
--   Deployment as a SaaS analytics tool
+-  Integration with real-time monitoring systems
+-  Use of deep learning models like Transformers for sequence analysis
+-	 Emotion detection using webcam or voice (advanced)
+-	 Personalized UI adaptation based on frustration level
+-  Deployment as a SaaS analytics tool
 
 ------------------------------------------------------------------------
 
